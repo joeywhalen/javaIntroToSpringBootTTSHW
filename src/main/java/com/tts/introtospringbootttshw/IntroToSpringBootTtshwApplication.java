@@ -25,7 +25,7 @@ public class IntroToSpringBootTtshwApplication {
 			repository.save(new Feline("American Short Hair", "Squeakers", "Male", "Fuzzball"));
 			repository.save(new Feline("Persian", "Nick Furry", "Male", "Catnip Pillow"));
 			repository.save(new Feline("Bengal", "Cateye", "Male", "Hair Tie"));
-			repository.save(new Feline("Munchkin", "The Mountain", "Female", "Spring"));
+			repository.save(new Feline("Munchkin", "The Mountain", "Femmale", "Spring"));
 			repository.save(new Feline("Calico", "Butter", "Female", "Food"));
 
 			// read all felines
